@@ -1,7 +1,7 @@
 # Basic Information 
 title: SuYeon Kim
 position: M.S. Student
-affiliation: Your Affiliation
+#affiliation: Your Affiliation
 email: spoiuy3 (at) khu.ac.kr
 
 # Search Engine Optimization (SEO)
@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/suyeon-kim-a139b03a9/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/suyeon.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
