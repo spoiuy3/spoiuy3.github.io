@@ -1,14 +1,14 @@
 # Basic Information 
 title: SuYeon Kim
 position: M.S. Student
-#affiliation: Your Affiliation
+affiliation: Kyung Hee University
 email: spoiuy3 (at) khu.ac.kr
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: SuYeon Kim
+description: This is a SuYeon Kim's personal homepage.
+canonical: https://spoiuy3.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
