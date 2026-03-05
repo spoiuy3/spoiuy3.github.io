@@ -1,22 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection"
+    authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026"
+    pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
+    code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
+    page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
+    image: "./assets/img/sdr.png"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
+    authors: "<strong>KunHo Heo</strong>, SuYeon Kim, Yonghyun Gwon, Youngbin Kim, MyeongAh Cho"
+    conference_short: "CVPR"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026"
+    pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
+    code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
+    page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
+    image: "./assets/img/ParTY.png"
+
+  - title: "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction"
+    authors: "<strong>KunHo Heo*</strong>, GiHyun Kim*, SuYeon Kim, MyeongAh Cho"
+    conference_short: "NeurIPS"
+    conference: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025"
+    pdf: "https://arxiv.org/pdf/2510.04714"
+    code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes"
+    page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/"
+    image: "./assets/img/OCRL.png"

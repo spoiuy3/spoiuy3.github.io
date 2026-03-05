@@ -13,8 +13,8 @@ I am a M.S. student at KyungHee University.
 
 ## News
 
-- **[Mar. 2026]** Joined as an M.S. student at Kyung Hee University.
-- **[Feb. 2026]** Two paper got accepted at CVPR 2026.
-- **[Sep. 2025]** One paper got accepted at NeurIPS 2026.
+- **[Mar. 2026]** <b>Joined as an M.S. student at Kyung Hee University</b>.
+- **[Feb. 2026]** <b><span style="color:blue;">Two</span></b> paper got accepted at CVPR 2026.
+- **[Sep. 2025]** <b><span style="color:blue;">One</span></b> paper got accepted at NeurIPS 2026.
 
 {% include_relative _includes/publications.md %}
