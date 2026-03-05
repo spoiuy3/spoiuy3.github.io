@@ -1,7 +1,7 @@
 main:
 
   - title: "A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection"
-    authors: "<strong><span style='color:#C74141;'>SuYeon Kim</span></strong>, Wongyu Lee, MyeongAh Cho"
+    authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026"
     pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
@@ -10,7 +10,7 @@ main:
     image: "./assets/img/sdr.png"
 
   - title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
-    authors: "KunHo Heo, <strong><span style='color:#C74141;'>SuYeon Kim</span></strong>, Yonghyun Gwon, Youngbin Kim, MyeongAh Cho"
+    authors: "KunHo Heo, <strong>SuYeon Kim</strong>, Yonghyun Gwon, Youngbin Kim, MyeongAh Cho"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026"
     pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
@@ -19,7 +19,7 @@ main:
     image: "./assets/img/ParTY.png"
 
   - title: "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction"
-    authors: "KunHo Heo*, GiHyun Kim*, <strong><span style='color:#C74141;'>SuYeon Kim</span></strong>, MyeongAh Cho"
+    authors: "KunHo Heo*, GiHyun Kim*, <strong>SuYeon Kim</strong>, MyeongAh Cho"
     conference_short: "NeurIPS"
     conference: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025"
     pdf: "https://arxiv.org/pdf/2510.04714"
