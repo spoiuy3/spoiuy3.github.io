@@ -4,18 +4,18 @@ main:
     authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026"
-    pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
-    code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
-    page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
+    #pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
+    #code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
+    #page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
     image: "./assets/img/sdr.png"
 
   - title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
     authors: "KunHo Heo, <strong>SuYeon Kim</strong>, Yonghyun Gwon, Youngbin Kim, MyeongAh Cho"
     conference_short: "CVPR"
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026"
-    pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
-    code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
-    page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
+    #pdf: "https://arxiv.org/pdf/2510.04714" # 수정 예정
+    #code: "https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes" # 수정 예정
+    #page: "https://visualsciencelab-khu.github.io/OCRL-3DSSG/" # 수정 예정
     image: "./assets/img/ParTY.png"
 
   - title: "Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction"
