@@ -82,9 +82,16 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 140px; width: 420px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: contain; background: #fff; }
 
 @media (max-width: 480px) {
+  /* 썸네일 영역 높이 고정 해제 -> 겹침 해결 */
+  .publications ol.bibliography li .abbr {
+    height: auto !important;
+    margin-bottom: 1rem;
+  }
+
+  /* 이미지도 화면 폭에 맞춰 반응형 */
   .publications ol.bibliography li .teaser {
-    width: 100%;
-    height: auto;     /* 비율 유지하면서 세로는 자동 */
-    max-width: 420px; /* 데스크탑에서 설정한 최대폭은 유지 */
+    width: 100% !important;
+    height: auto !important;
+    max-width: 420px;
   }
 }
