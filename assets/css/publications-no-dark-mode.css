@@ -78,7 +78,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   /* 썸네일 영역 높이 고정 해제 -> 겹침 해결 */
   .publications ol.bibliography li .abbr {
     height: auto !important;
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem !important;
   }
 
   /* 이미지도 화면 폭에 맞춰 반응형 */
