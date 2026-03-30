@@ -6,7 +6,7 @@ main:
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026"
     pdf: "https://arxiv.org/pdf/2603.25159" 
     code: "https://github.com/VisualScienceLab-KHU/SeDiR" 
-    page: "https://spoiuy3.github.io/SeDiR/" 
+    page: "https://visualsciencelab-khu.github.io/SeDiR_project/" 
     image: "./assets/img/sdr.png"
 
   - title: "ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis"
