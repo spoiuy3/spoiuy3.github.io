@@ -3,7 +3,7 @@ main:
   - title: "A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection"
     authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
     conference_short: "CVPR"
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026, <strong><span style='color:#d8a61d;'>Highlight!</span></strong>"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026, <strong><span style='color:#0f03b9;'>Highlight!</span></strong>"
     pdf: "https://arxiv.org/pdf/2603.25159" 
     code: "https://github.com/VisualScienceLab-KHU/SeDiR" 
     page: "https://visualsciencelab-khu.github.io/SeDiR_project/" 

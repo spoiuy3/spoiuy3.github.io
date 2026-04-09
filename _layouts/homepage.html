@@ -50,9 +50,17 @@
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a href="https://www.khu.ac.kr/kor/user/main/view.do" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+
+        {% if site.affiliation_2 %}
+        <a href="https://vslab.khu.ac.kr/" target="_blank" rel="noopener">
+          <autocolor>{{ site.affiliation_2 }}</autocolor>
+        </a>
+        <br>
+        {% endif %}
+
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
