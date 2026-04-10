@@ -10,14 +10,20 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
+
+    {% if link.conference_short or link.highlight %}
+    <div style="position:absolute; top:10px; left:15px; display:flex; gap:6px; z-index:10;">
+      {% if link.conference_short %} 
+      <abbr class="badge" style="position:static; margin:0;">{{ link.conference_short }}</abbr>
+      {% endif %}
+      {% if link.highlight %}
+      <abbr class="badge" style="position:static; margin:0; background-color:#DC143C; color:white;">🏅 Highlight</abbr>
+      {% endif %}
+    </div>
     {% endif %}
-    {% if link.highlight %}
-    <abbr class="badge" style="left: 72px; background-color: #f4a742; color: white;">🏅 Highlight</abbr>
+
     {% endif %}
-    {% endif %}
-  </div>
+</div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
