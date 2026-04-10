@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a M.S. student at KyungHee University.
+I am a M.S. student at KyungHee University, VSLab.
 
 ## Research Interests
 
-- **3D Vision:** 3D anomaly detection, 3D scene graph generation
-- **Others:** human motion generation, few-shot object detection, multimodal learning
+- **Anomaly Detection:** 3D anomaly detection, video anomaly detection
+- **Others:** human motion generation, 3D scene graph generation, multimodal learning
 
 ## News
 
