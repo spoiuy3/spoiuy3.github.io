@@ -17,7 +17,7 @@
       <abbr class="badge" style="position:static; margin:0;">{{ link.conference_short }}</abbr>
       {% endif %}
       {% if link.highlight %}
-      <abbr class="badge" style="position:static; margin:0; background-color:#f4a742; color:black;">HIGHLIGHT</abbr>
+      <abbr class="badge" style="position:static; margin:0; background-color:#f4a742; color:#DC143C;">HIGHLIGHT</abbr>
       {% endif %}
     </div>
     {% endif %}
