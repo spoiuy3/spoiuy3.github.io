@@ -4,7 +4,7 @@ main:
     authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
     conference_short: "CVPR"
     highlight: true
-    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026 (<strong><span style='color:#DC143C;'>Highlight</span></strong>, acceptance rate = <strong><span style='color:#DC143C;'>3.0%</span></strong>)"
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong><span style='color:#C74141;'>CVPR</span></strong>), 2026 (<strong><span style='color:#DC143C;'>Highlight, Top 3.0%</span></strong>)"
     pdf: "https://arxiv.org/pdf/2603.25159" 
     code: "https://github.com/VisualScienceLab-KHU/SeDiR" 
     page: "https://visualsciencelab-khu.github.io/SeDiR_project/" 
