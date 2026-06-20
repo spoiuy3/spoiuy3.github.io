@@ -13,6 +13,7 @@ I am a M.S. student at KyungHee University, VSLab.
 
 ## News
 
+- **[Jun. 2026]** <b><span style="color:#C74141;">One</span></b> paper got accepted at <b>ECCV 2026</b>.
 - **[Apr. 2026]** My paper was selected as a <b><span style="color:#C74141;">highlight</span></b> paper at CVPR 2026.
 - **[Mar. 2026]** Joined as an M.S. student at Kyung Hee University, VSLab.
 - **[Feb. 2026]** <b><span style="color:#C74141;">Two</span></b> papers got accepted at <b>CVPR 2026</b>.
