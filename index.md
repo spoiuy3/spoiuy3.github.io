@@ -13,7 +13,9 @@ I am a M.S. student at KyungHee University, VSLab.
 
 ## News
 
+- **[Sep. 2026]** <b><span style="color:#C74141;">One</span></b> paper got accepted at <b>NeurIPS 2026</b>.
 - **[Aug. 2026]** Selected as a recipient of the NRF Research Subsidies for Master’s Students grant (Annual research budget: 12 million KRW).
+- **[Jul. 2026]** <b><span style="color:#C74141;">One</span></b> paper got accepted at <b>IEEE Transactions on Industrial Informatics (TII)</b>.
 - **[Jul. 2026]** Selected as a recipient of <b><span style="color:#C74141;">the Presidential Science Scholarship for Graduate Students (Korea)</span></b>!
 - **[Jun. 2026]** <b><span style="color:#C74141;">One</span></b> paper got accepted at <b>ECCV 2026</b>.
 - **[Apr. 2026]** My paper was selected as a <b><span style="color:#C74141;">highlight</span></b> paper at CVPR 2026.

@@ -1,4 +1,28 @@
 main:
+  - title: "Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling"
+    authors: "KunHo Heo*, <strong>SuYeon Kim</strong>*, Hayoung Lee, Chanse Oh, MyeongAh Cho"
+    conference_short: "NeurIPS"
+    conference: "The Fortieth Annual Conference on Neural Information Processing Systems (<strong><span style='color:#C74141;'>NeurIPS</span></strong>), 2026 (Poster)"
+    pdf: "https://arxiv.org/abs/2609.35059"
+    code: "https://github.com/VisualScienceLab-KHU/GRIM"
+    page: "https://visualsciencelab-khu.github.io/GRIM_project/"
+    image: "./assets/img/GRIM.png"
+
+  - title: "Selective Audio–Visual Fusion via Semantic Calibration for Video Surveillance System"
+    authors: "Youngbin Kim, Wongyu Lee, <strong>SuYeon Kim</strong>, MyeongAh Cho"
+    conference_short: "TII"
+    conference: "IEEE Transactions on Industrial Informatics, Jul. 2026"
+    pdf: "https://ieeexplore.ieee.org/document/11615012" 
+    image: "./assets/img/selective.png"
+
+  - title: "Rethinking prototype-based similarity learning for few-shot object detection"
+    authors: "KunHo Heo, Seungjae Kim, Wongyu Lee, <strong>SuYeon Kim</strong>, MyeongAh Cho"
+    conference_short: "ECCV"
+    conference: "European Conference on Computer Vision (<strong><span style='color:#C74141;'>ECCV</span></strong>), 2026 (Poster)"
+    pdf: "https://arxiv.org/abs/2606.23069" 
+    code: "https://github.com/VisualScienceLab-KHU/ReSet" 
+    page: "https://visualsciencelab-khu.github.io/ReSet_project/"
+    image: "./assets/img/reset.png"
 
   - title: "A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection"
     authors: "<strong>SuYeon Kim</strong>, Wongyu Lee, MyeongAh Cho"
