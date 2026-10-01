@@ -16,7 +16,7 @@ main:
     image: "./assets/img/selective.png"
 
   - title: "Rethinking prototype-based similarity learning for few-shot object detection"
-    authors: "KunHo Heo, Seungjae Kim, Wongyu Lee, <strong>SuYeon Kim</strong>, MyeongAh Cho"
+    authors: "KunHo Heo*, Seungjae Kim*, Wongyu Lee*, <strong>SuYeon Kim</strong>, MyeongAh Cho"
     conference_short: "ECCV"
     conference: "European Conference on Computer Vision (<strong><span style='color:#C74141;'>ECCV</span></strong>), 2026 (Poster)"
     pdf: "https://arxiv.org/abs/2606.23069" 
